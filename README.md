@@ -226,5 +226,7 @@ Proyek ini membuktikan bahwa pengembangan aplikasi cloud sederhana dapat dilakuk
 ---
 
 📌 **Dibuat oleh:**
+
 **Nayla Razaq Az-Zahra** – XII SIJA B
+
 📍 SMKN 2 Depok Sleman – 2025
