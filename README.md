@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5013714c-c4b3-44e7-8040-e0b28b20dca5" /># 🌸 Aplikasi CRUD Data Pengguna – Node.js + PostgreSQL (Railway) 🌸
+# 🌸 Aplikasi CRUD Data Pengguna – Node.js + PostgreSQL (Railway) 🌸
 
 📚 **Ujian Praktik Cloud Developer**
 
